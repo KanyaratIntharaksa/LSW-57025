@@ -1,11 +1,11 @@
 <html>
         <head>
-		            <title>การตกแต่งเว็บไซต์ด้วย CSS</title>
-		            <style>
-		                  	#box1{
-				                        width: 800px;
-				                        height: 350px;
-		                  	}
+		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
+		<style>
+		        #box1{
+				width: 800px;
+				height: 350px;
+		        }
                       	.box{
                                 background-color: blue;
                         }
