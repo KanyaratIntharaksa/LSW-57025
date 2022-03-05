@@ -6,7 +6,7 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url()
+      src: url(Arrow.woff)
     }
     @font-face{
       font-family: myFont2;
