@@ -15,7 +15,7 @@
         <td>1</td>
         <td>Min Yoongi</td>
         <td>Suga</td>
-        <td><img src=""130px"></td>
+        <td><img src="https://images.app.goo.gl/xL97NiAGUrdB3bHR9"130px"></td>
         <td><a href="https://www.instagram.com/agustd/">instagram</a>
        </tr>
            <td>2</td>
