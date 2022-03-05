@@ -15,7 +15,7 @@
         <td>1</td>
         <td>Min Yoongi</td>
         <td>Suga</td>
-        <td><img src="https://images.app.goo.gl/xL97NiAGUrdB3bHR9"130px"></td>
+        <td><img src="https://www.google.com/search?q=%E0%B8%8A%E0%B8%B9%E0%B8%81%E0%B9%89%E0%B8%B2+bts&tbm=isch&ved=2ahUKEwjoxfnBgK_2AhWPk9gFHSg1ArgQ2-cCegQIABAA&oq=%E0%B8%8A%E0%B8%B9%E0%B8%81%E0%B9%89%E0%B8%B2+bts&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAELEDUMIFWLk4YKo-aABwAHgAgAGjAYgBgQaSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=2VsjYqj1CY-n4t4PqOqIwAs&bih=789&biw=1600#imgrc=OclPI9qpu68W7M"130px"></td>
         <td><a href="https://www.instagram.com/agustd/">instagram</a>
        </tr>
            <td>2</td>
